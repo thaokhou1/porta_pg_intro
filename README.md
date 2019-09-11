@@ -3,5 +3,5 @@ Music Library Project!
 ---
 To spin up this project:
 
-```$npm install```
-```$npm start```
+```$npm install```  return
+```$npm start```  return
