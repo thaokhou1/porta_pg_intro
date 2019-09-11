@@ -1,6 +1,7 @@
 # porta_pg_intro
+Music Library Project!
+---
+To spin up this project:
 
-TO spin up this project:
-
-$npm install
-$npm start
+```$npm install```
+```$npm start```
